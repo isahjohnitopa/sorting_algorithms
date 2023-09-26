@@ -43,7 +43,7 @@ size_t partition(int **array, size_t low, size_t high, size_t size)
  * qS - short description
  *
  * Description: long description
- * 
+ *
  * @array: argument_1 description
  * @low: argument_2 descrip
  * @high: argument_2 description
@@ -68,12 +68,12 @@ void qS(int **array, size_t low, size_t high, size_t size)
 
 /**
  * quick_sort - short description
- * 
+ *
  * Description: long description
- * 
+ *
  * @array: argument_1 description
  * @size: argument_2 description
- * 
+ *
  * Return: return description
  */
 void quick_sort(int *array, size_t size)
